@@ -1,3 +1,5 @@
+django-extensions==1.1.1
+Django==1.5.2
 djangorestframework==2.3.7
 django-rest-swagger==0.1.6
 django-cors-headers==0.11
@@ -8,4 +10,7 @@ south<2.0
 gunicorn
 dj-database-url
 shortuuid
-pytz
+pytz>2011k
+psycopg2==2.4.5
+django-redis==3.2
+
